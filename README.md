@@ -21,7 +21,7 @@
 ---
 ## 📖 Tentang Buku
 
-<img src="./assets/cover.jpeg" alt="Cover Buku" style="border-radius: 4px; text-align: center; margin: 0 auto;">
+<img src="./assets/cover.jpg" alt="Cover Buku" style="border-radius: 4px; text-align: center; margin: 0 auto;">
 
 Panduan komprehensif untuk pemrograman web ini menggabungkan konsep dasar dengan aplikasi praktis menggunakan Python Pyramid dan React.js. Ditulis oleh pendidik berpengalaman dan praktisi industri, buku ini menjembatani kesenjangan antara teori dan pengembangan di dunia nyata.
 
